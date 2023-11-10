@@ -1,3 +1,9 @@
+# Installing the dependencies
+
+This project has some version conflict so use below to install node modules
+
+### `npm install --force --legacy-peer-deps`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
